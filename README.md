@@ -1,5 +1,6 @@
 # NBALIVESCORE
 ## Get live NBA scores. (It can also be used for other professional basketball leagues)
+## Note : URL doesn't work anymore. Will update if I find another way.
 This program accesses the xml data using urllib.request. </br>
 The xml data looks like this: https://www.scorespro.com/rss2/live-basketball.xml </br>
 Then we read the xml data using ET.fromstring. </br>
